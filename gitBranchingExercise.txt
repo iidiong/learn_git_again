@@ -1,0 +1,13 @@
+1. git command creates a branch 
+    git branch <branch name>
+    git checkout -b <branch name>
+
+2. Fast-forward merge involves merging a branch with master with no new commit to master, while
+    recursive merge involves merging a branch with new commit to the master branch
+
+3.  git commmand to change to another branch - git checkout <branch name>
+
+4. git command deletes a branch - git branch -d <branch name>
+
+5. merge comflict happens when changes are made to the same file by different persons.
+
